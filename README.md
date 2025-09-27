@@ -74,24 +74,25 @@ ___________________
 **📊 Power BI Dashboard with KPIs (Revenue, Orders, Customers), city and regional breakdowns, and trend analysis.**
 ________________________________
 <div align="center">
- ## Total Revenue
-<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue.png" alt="Total Revenue" width="428" height="858">
+ 
+ ## **Total Revenue**
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue.png" alt="Total Revenue" width="600" height="1000">
  <br> <br>
-<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Total Revenue" width="530" height="830">
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Total Revenue" width="600" height="1000">
   <br> <br>  <br> <br>
  <hr>
 
  ## Top Product & Customer Performance
-<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Top Product & Customer Performance" width="530" height="830">
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Top Product & Customer Performance" width="600" height="1000">
  <br> <br>
-<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Top Product & Customer Performance" width="530" height="830">
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Top Product & Customer Performance" width="600" height="1000">
  <br> <br>  <br> <br>
  <hr>
 
  ## Geographic Performance
-<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Geographic Performance" width="530" height="830">
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Geographic Performance" width="600" height="1000">
  <br> <br>
-<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Geographic Performance" width="530" height="830">
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Geographic Performance" width="600" height="1000">
  <br> <br>  <br> <br>
  <hr>
 
