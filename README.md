@@ -74,19 +74,36 @@ ___________________
 **📊 Power BI Dashboard with KPIs (Revenue, Orders, Customers), city and regional breakdowns, and trend analysis.**
 ________________________________
 <div align="center">
-<img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Online%20Retail.jpg" alt="Titanic Analysis" width="428" height="858">
-<img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Heatmap%20-%20Distribution%20of%20Recency%E2%80%93Frequency%E2%80%93Monetary.png" alt="Heatmap" width="530" height="830">
-</div>
+ ## Total Revenue
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue.png.jpg" alt="Titanic Analysis" width="428" height="858">
+ <br> <br>
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Heatmap" width="530" height="830">
+  <br> <br>  <br> <br>
+ <hr>
 
-<div align="center">
- <img src="https://github.com/Andrew192100099/Online-Retail-Dataset__Analysis-/blob/main/Images/Bar%20Chart%20-%20Customer%20Classification%20Distribution.png" alt="Bar Chart" width="800" height="858">
+ ## Top Product & Customer Performance
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Heatmap" width="530" height="830">
+ <br> <br>
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Heatmap" width="530" height="830">
+ <br> <br>  <br> <br>
+ <hr>
+
+ ## Geographic Performance
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Heatmap" width="530" height="830">
+ <br> <br>
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Heatmap" width="530" height="830">
+ <br> <br>  <br> <br>
+ <hr>
+
+ ## Dashboard 
+<img src="https://github.com/Andrew192100099/Power-BI-Dashboard-for-Retail-Insights/blob/main/Business%20Intelligence%20Sheets/Total%20Revenue%20Sheet%202.png" alt="Heatmap" width="530" height="830">
 </div>
 
 <hr>
 
 <div align="center">
  
-## **Kaggle:** https://archive.ics.uci.edu/dataset/352/online+retail
+## **Kaggle:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 </div>
 
